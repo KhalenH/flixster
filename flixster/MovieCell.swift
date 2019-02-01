@@ -2,7 +2,7 @@
 //  MovieCell.swift
 //  flixster
 //
-//  Created by Khalen Hudson on 1/29/19.
+//  Created by Khalen Hudson on 1/30/19.
 //  Copyright © 2019 Khalen Hudson. All rights reserved.
 //
 
@@ -10,6 +10,12 @@ import UIKit
 
 class MovieCell: UITableViewCell {
 
+    @IBOutlet weak var titleLabel: UILabel!
+    
+    @IBOutlet weak var synopsisLabel: UILabel!
+    
+    @IBOutlet weak var posterView: UIImageView!
+    
     override func awakeFromNib() {
         super.awakeFromNib()
         // Initialization code
