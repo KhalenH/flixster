@@ -33,5 +33,4 @@ User can Scroll through the app to see the selection of movies.
 
 https://i.imgur.com/8ElzVfe.gifv
 
-### Notes
-Describe any challenges encountered while building the app.
+
