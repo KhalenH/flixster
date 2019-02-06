@@ -10,7 +10,7 @@ User can now see info about the movie by clicking on it. User now can see a cate
 ### App Walkthrough GIF part 2
 
 
-
+https://i.imgur.com/KZ7vhVW.gifv
 
 ---
 
