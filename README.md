@@ -33,4 +33,6 @@ User can Scroll through the app to see the selection of movies.
 
 https://i.imgur.com/8ElzVfe.gifv
 
+### Note
 
+This app was made and configured on iphone 8
